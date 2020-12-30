@@ -2,7 +2,9 @@
 Building a basic REST API then integrating that API with a flask SQL-Alchemy database. 
 A fully functioning REST API with python and flask.
 
-Requirements:-
+Use "𝙥𝙞𝙥 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 -𝙧 𝙧𝙚𝙦𝙪𝙞𝙧𝙚𝙢𝙚𝙣𝙩𝙨.𝙩𝙭𝙩" to automatically install all the requirements in a single shot along with the required versions.
+
+Requirements:-   
 
        ⁍ aniso8601==8.0.0 
 
